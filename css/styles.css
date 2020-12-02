@@ -158,7 +158,7 @@ font-family: 'Sacramento', cursive;
   font-family: "Montserrat-light";
   font-weight: lighter;
 }
-@media (max-width:912px) {
+@media (max-width: 1024px) {
 .mountain{
   display: none;
 }
@@ -169,3 +169,4 @@ font-family: 'Sacramento', cursive;
   padding-bottom: 100px;
 }
 }
+
